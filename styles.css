@@ -10,7 +10,7 @@ body {
     margin-top: 20vh;
   }
   
-  h1 {
+  h1, h2 {
     color: #3D405B;
     font-size: 48px;
   }
