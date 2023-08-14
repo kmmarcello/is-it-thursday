@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Montserrat, normal;
     background-color: #E07A5F;
     margin: 0;
     padding: 0;
@@ -15,6 +15,6 @@ body {
   }
   
   p {
-    font-size: 24px;
+    font-size: 48px;
     font-weight: bold;
   }
